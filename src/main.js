@@ -3,3 +3,7 @@ import App from './App.vue'
 import router from './router'
 
 createApp(App).use(router).mount('#app')
+
+
+// https://www.youtube.com/watch?v=juocv4AtrHo
+// 19:05nel
