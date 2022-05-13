@@ -6,4 +6,4 @@ createApp(App).use(router).mount('#app')
 
 
 // https://www.youtube.com/watch?v=juocv4AtrHo
-// 19:05nel
+// 36:37nel
